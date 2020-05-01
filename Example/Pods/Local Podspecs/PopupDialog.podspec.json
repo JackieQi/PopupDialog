@@ -16,13 +16,14 @@
   },
   "social_media_url": "https://twitter.com/theMWFire",
   "platforms": {
-    "ios": "9.0"
+    "ios": "10.0"
   },
   "source_files": "PopupDialog/Classes/**/*",
-  "swift_version": "4.2",
+  "swift_versions": "5.0",
   "dependencies": {
     "DynamicBlurView": [
-      "~> 3.0.1"
+      "~> 4.0"
     ]
-  }
+  },
+  "swift_version": "5.0"
 }
